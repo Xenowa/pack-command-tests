@@ -1,0 +1,4 @@
+io.ballerina.samplebuild.SubCmdB
+io.ballerina.samplebuild.SubCmdA
+io.ballerina.samplebuild.SampleToolMainCmd
+io.ballerina.samplebuild.SubCmdC

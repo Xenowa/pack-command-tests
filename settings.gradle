@@ -1,0 +1,3 @@
+rootProject.name = 'pack-command-tests'
+include 'sample-build-tool-native'
+include 'sample-launcher-tool-native'
